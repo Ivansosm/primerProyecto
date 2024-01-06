@@ -1,6 +1,8 @@
+
 let button = document.getElementById('ok')
 button.addEventListener('click',prntFunction)
 
-prntFunction(){
+
+function prntFunction(){
     alert('HOLA')
 }
